@@ -185,7 +185,8 @@
 | [数字人格蒸馏（适配）](usecases/digital-persona-distillation.md) | 从 12+ 平台聊天记录提取 4 维人格档案，含飞书/微信采集和 PIPL 提醒 | ⭐⭐⭐ |
 | [多智能体协作操作系统](usecases/cn-multi-agent-operating-system.md) | 把 OpenClaw 变成专业分工、协同、稳定迭代的智能体系统 | ⭐⭐⭐ |
 | [Agent Swarm 一人开发团队（适配）](usecases/agent-swarm-dev-team.md) | OpenClaw 编排 Codex + Claude Code 舰队，全自动化开发流水线 | ⭐⭐⭐ |
-| [Multica 智能体看板（适配）](usecases/multica-managed-agents.md) | 把 OpenClaw / Claude Code / Codex / Hermes 拉进同一个 Web 看板，Issue 即任务、Apache 2.0 自部署 | ⭐⭐ |
+| [Multica 智能体看板（适配）](usecases/multica-managed-agents.md) | 把 OpenClaw / Claude Code / Codex / Hermes 拉进同一个 Web 看板、Issue 即任务、Apache 2.0 自部署 | ⭐⭐ |
+| [习惯追踪与打卡教练（适配）](usecases/habit-tracker-accountability-coach.md) | OpenClaw 化身打卡教练：每日定时主动找你确认习惯进度，连击统计 + 自适应提醒（国内消息通道适配） | ⭐⭐ |
 
 ---
 
@@ -224,7 +225,8 @@
 | [Opik 可观测性追踪](usecases/opik-openclaw-observability.md) | 将 OpenClaw 运行链路接入 Opik，统一查看 LLM/工具/子智能体追踪，并监控 token 与成本 | ⭐⭐ |
 | [自愈家庭服务器](usecases/self-healing-home-server.md) | 运行始终在线的基础设施智能体，自动发现并修复故障 | ⭐⭐⭐ |
 | [Agent Swarm 一人开发团队](usecases/agent-swarm-dev-team.md) | OpenClaw 编排 Codex + Claude Code 舰队实现全自动化开发流水线（国内适配） | ⭐⭐⭐ |
-| [Multica 智能体看板](usecases/multica-managed-agents.md) | 多 CLI 智能体统一 Web 看板，Issue 即任务、Skills 可复用，Apache 2.0 自部署（国内适配） | ⭐⭐ |
+| [Multica 智能体看板](usecases/multica-managed-agents.md) | 把 OpenClaw / Claude Code / Codex / Hermes 拉进同一个 Web 看板、Issue 即任务、Apache 2.0 自部署 | ⭐⭐ |
+| [习惯追踪与打卡教练（适配）](usecases/habit-tracker-accountability-coach.md) | OpenClaw 化身打卡教练：每日定时主动找你确认习惯进度，连击统计 + 自适应提醒（国内消息通道适配） | ⭐⭐ |
 
 ### 生产力
 
